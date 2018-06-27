@@ -1,4 +1,5 @@
 Configuración lista!
 Esto es una prueba
 Probando git status
-This has not been committed 
+
+This is a new line  27/07
